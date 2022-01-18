@@ -20,4 +20,4 @@ else:
     BOT_TOKEN = ""
     DATABASE_URL = ""
     DATABASE_URL = DATABASE_URL.replace("postgres", "postgresql")
-    MUST_JOIN = "@JaiHindChatting"
+    MUST_JOIN = "@SUBHI_WORLD"
